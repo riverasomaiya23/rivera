@@ -1,5 +1,5 @@
 /*******************************************************
-* Purpose: To know if the number is prime number or not.
+* Purpose: To know if the entered no is prime or not.
 
 @author; Rivera
 @since;  06/08/2017
