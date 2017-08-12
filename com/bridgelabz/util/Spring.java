@@ -1,6 +1,7 @@
 /******************************************************************************
  * Compilation: javac -d bin com/bridgelabz/util/Spring.java
  * Execution: java -cp bin com.bridgelabz.util.Spring
+ *
  * Purpose: Finds if the entered day falls under spring season or not.
  *
  *  @author  Rivera
@@ -8,14 +9,15 @@
  *  @since   08-08-2017
  *
  ******************************************************************************/
-/*package
+/*package Naming Style
+*/
 package com.bridgelabz.util;
 /*
 finds if the season is spring or not.
 */
-public class Spring {
+  public class Spring {
 
-    public static void main( String[] args) {
+      public static void main( String[] args) {
     	//accepting the values from the user
         int month=Integer.parseInt(args[0]);
         int day=Integer.parseInt(args[1]);
@@ -25,6 +27,5 @@ public class Spring {
         //prints the output after checking the condition.
         System.out.println(isSpring);
 
+    }
 }
-
-   }
