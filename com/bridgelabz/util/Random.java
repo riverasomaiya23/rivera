@@ -11,12 +11,16 @@
 /*package naming style
 */
 package com.bridgelabz.util;
-public class Random  {
-  public static void main (String[] args)  {
+  //finds the random sequence.
+  public class Random  {
+     public static void main (String[] args)  {
+     //accepts the argument from the user.
      int n=Integer.parseInt(args[0]);
      int i=Integer.parseInt(args[1]);
+     //initialising the for loop.
      for(i=0;i<n;i++)
      {
+     	//prints the random number.
         System.out.println(Math.random());
   
 

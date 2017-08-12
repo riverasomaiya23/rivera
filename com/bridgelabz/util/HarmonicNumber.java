@@ -34,7 +34,7 @@ class HarmonicNumber {
 	  		//stores the value of harmonic series.
 	  		double value=harmonic(arg);
 	  		//prints the sum of harmonic series.
-	  		System.out.printn(value);
+	  		System.out.println(value);
 	  	}
 	  }
 }

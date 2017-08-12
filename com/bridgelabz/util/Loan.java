@@ -1,5 +1,9 @@
 /******************************************************************************
- *  Purpose: to calculate the rate of interest on the loan
+ * 
+ * Compilation: javac -d bin com/bridgelabz/util/Loan.java
+ * Execution: java -cp bin com.bridgelabz.util.Loan
+ *
+ * Purpose: to calculate the rate of interest on the loan
  *
  *  @author  Rivera
  *  @version 1.0
@@ -11,7 +15,6 @@ package com.bridgelabz.util;
 /*
 *Find the rate of interest on the loan
 */
-
 class Loan {
 
 	public static void main(String[] args) {
