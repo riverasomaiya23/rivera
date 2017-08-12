@@ -2,7 +2,7 @@
  * Compilation: javac -d bin com/bridgelabz/util/Trig.java
  * Execution: java -cp bin com.bridgelabz.util.Trig
  *
- * Purpose: Finds the Day of the week for the entered Data.
+ *
  *
  *  @author  Rivera
  *  @version 1.0

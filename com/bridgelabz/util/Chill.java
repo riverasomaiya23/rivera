@@ -1,6 +1,6 @@
 /******************************************************************************
- * Compilation: javac -d bin com/bridgelabz/util/TemperatureConvert.java
- * Execution: java -cp bin com.bridgelabz.util.TemperatureConvert
+ * Compilation: javac -d bin com/bridgelabz/util/Chill.java
+ * Execution: java -cp bin com.bridgelabz.util.Chill
  *
  * Purpose: Finds the chill in the temperature
  *
