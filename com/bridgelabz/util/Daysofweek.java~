@@ -1,15 +1,13 @@
-/******************************************************************************
+/*****************************************************************************
  * Compilation: javac -d bin com/bridgelabz/util/Day.java
  * Execution: java -cp bin com.bridgelabz.util.Day
  *
- * Purpose: Finds the Day of the week for the entered Date
- *
+ * Purpose: to print the day of a week.
  *  @author  Rivera
  *  @version 1.0
- *  @since   07-08-2017
+ *  @since   13-08-2017
  *
  ******************************************************************************/
-//package naming style
 package com.bridgelabz.util;
 /*
 *Finds the day of the week
@@ -57,3 +55,5 @@ package com.bridgelabz.util;
 		System.out.println("The day is Sunday");
 	}
 }		
+
+

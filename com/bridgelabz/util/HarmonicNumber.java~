@@ -17,6 +17,7 @@ package com.bridgelabz.util;
 class HarmonicNumber {
 static double sum;
 static int arg;
+double value;
 	  //creating a method named harmonic.
 	  public static double harmonic (int n) {
 	    // initialising sum as 0.
@@ -35,7 +36,7 @@ static int arg;
 	  		//accepting the values from the user.
 	  		 arg=Integer.parseInt(args[i]);
 	  		//stores the value of harmonic series.
-	  		double value=harmonic(arg);
+	  		value=harmonic(arg);
 	  		//prints the sum of harmonic series.
 	  		System.out.println(value);
 	  	}

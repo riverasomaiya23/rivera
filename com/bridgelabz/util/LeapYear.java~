@@ -17,7 +17,7 @@ package com.bridgelabz.util;
        boolean IsLeapYear;
        int IsLeapYear;
        //divisible by four.
-       IsLeapYear = (year%4==0);
+       IsLeapYear1 = (year%4==0);
        //divisible by 4 and not 100.
        IsLeapYear = IsLeapYear && (year%100!=0);
        //divisible by 400.
