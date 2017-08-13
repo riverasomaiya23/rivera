@@ -6,7 +6,7 @@
  *
  *  @author  Rivera
  *  @version 1.0
- *  @since   08-08-2017
+ *  @since   13-08-2017
  *
  ******************************************************************************/
 /*package Naming Style
@@ -28,7 +28,7 @@ package com.bridgelabz.util;
        double b = s-side2;
        double c = s-side3;
        //calculates the area of triangle.
-       double AreaOfTriangle = Math.sqrt(s*(a*b*c));a
+       double AreaOfTriangle = Math.sqrt(s*(a*b*c));
        //prints the calculated area of triangle
        System.out.println("The area of the triangle obtained is" +AreaOfTriangle);
     }
