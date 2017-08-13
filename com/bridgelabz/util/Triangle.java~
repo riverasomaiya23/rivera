@@ -16,8 +16,7 @@ package com.bridgelabz.util;
 */
     public class Triangle 
        {
-       public static void main(String args[])
-       {
+       public static void main(String args[]){
        //accepts the input from the user as an argument.
        double side1 = Double.parseDouble(args[0]);
        double side2 = Double.parseDouble(args[1]);

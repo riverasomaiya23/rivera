@@ -24,7 +24,7 @@ import java.lang.Integer;
      
        public static void main( String[] args)
          { 
-           flipTimes=Integer.parseInt(args[0]);
+           fliptimes=Integer.parseInt(args[0]);
            System.out.println("number of times the coin is flipped is" +flipTimes);
          for(ctr=1;ctr<=flipTimes;ctr++)
           {
